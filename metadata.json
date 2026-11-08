@@ -1,0 +1,6 @@
+{
+  "name": "Test de Resiliencia y Afrontamiento ante Violencia Criminal",
+  "description": "Evaluación psicométrica y análisis asistido por IA del nivel de resiliencia y estrategias de afrontamiento ante experiencias de violencia criminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
